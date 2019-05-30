@@ -36,8 +36,8 @@ It is best to create applications for your own OS for easy use.
 
 ``` Markdown
 The batch file is very simple and requires simple `letter and number` input.  
-When converting a website and you are asked to enter a url,  
-remember to include a domain (.com / .uk / .nz / etc)
+When converting a website and you are asked to enter a url, remember to include a domain  
+(.com / .uk / .nz / etc)
 ```
 
 ## Release Log
