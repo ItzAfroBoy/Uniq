@@ -54,7 +54,7 @@ echo On your Desktop, there is now a new folder.
 ping -n 2 127.0.0.1>nul
 echo In that folder, there is a .exe file with the name of the website you chose to convert.
 ping -n 2 127.0.0.1>nul
-echo You can now put that folder anywhere on your computer and create a shortcut so that it can be accessed from the Desktop.
+echo You can now put that folder anywhere on your computer and create a shortcut for the exe file so that it can be accessed from the Desktop.
 ping -n 2 127.0.0.1>nul
 goto finished
 
