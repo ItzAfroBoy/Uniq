@@ -26,21 +26,25 @@ When the batch file is ran, a menu with options appears:
 1. Convert a website
 2. Install requirements (`Nativefier`)
 3. Check to see if `Nativefier` is installed
-4. Come to this Github repo
-5. Clone the Github repo
-6. Exit the applicantion / batch file
+4. Exit the applicantion / batch file
 
 ``` Markdown
 When converting a website and you are asked to enter a url,
 remember to include a domain e.g.
 - .com
-- .org
-- .nz  
+- .co.uk
+- .io
+
+You should also include the protocol to access the web address e.g.
+- https
+- http
 ```
 
 ## Release Log
 
 ``` Markdown
+- 1.0.1 Sun 13 Dec 2020 - Simplified batch file
+
 - 1.0.0 Thur 30 Apr 2019 - First Build
 ```
 
