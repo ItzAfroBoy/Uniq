@@ -16,7 +16,7 @@ To install `Uniq`, the following is required:
 **Note:**
 
 ``` plain text
-It is best to create applications for your own OS for easy use.
+It is best to create applications for your own OS for easy use. Windows is currently the only supported OS as the script is written in batch. It is currently be reworked to work universally in the most efficient way
 ```
 
 ## Usage
